@@ -15,7 +15,7 @@ currently I'm working on..
 
 💌 hcho249@uwo.ca  
 
-<div style="display: block; margin: 0 auto;">
+<div style="display: flex; justify-content: center;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=yivwon&show_icons=true&title_color=A7356C&text_color=A7356C&icon_color=A7356C&bg_color=45,AA8CA2,FFFFFF&border_color=F5BDD8"
