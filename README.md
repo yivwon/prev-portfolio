@@ -9,7 +9,7 @@ currently i'm working on..
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yivwon&show_icons=true&theme=dark&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=45,0d1117,0f151f"
+    srcset="https://github-readme-stats.vercel.app/api?username=yivwon&show_icons=true&title_color=D39AB8&text_color=DD97B9&icon_color=CEB3C0&bg_color=45,8C7681,FFFFFF&border_color=F5BDD8"
     media="(prefers-color-scheme: dark)"
   />
   <source
