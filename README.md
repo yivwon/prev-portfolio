@@ -12,7 +12,7 @@ currently i'm working on..
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yivwon&show_icons=true&title_color=CB5A91&text_color=DD97B9&icon_color=CB5A91&bg_color=45,FFE8F3,FFFFFF"
+    srcset="https://github-readme-stats.vercel.app/api?username=yivwon&show_icons=true&title_color=CB5A91&text_color=DD97B9&icon_color=CB5A91&bg_color=45,FFE8F3,FFFFFF&border_color=F5BDD8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img 
