@@ -6,4 +6,5 @@ currently i'm working on..
 
 💌 hcho249@uwo.ca  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yivwon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yivwon)](https://github.com/anuraghazra/github-readme-stats) &bg_color=180,F5BDD8,FFE8F3
+
