@@ -1,5 +1,5 @@
 🐰 hello! my name is ivy and i'm a first-year computer science student at Western University  
-🌷 aside from coding, I love boba, music, and Animal Crossing  
+🌷 aside from coding, I love boba, music, and animal crossing  
 
 currently I'm working on..  
 📎 getting good grades :c  
