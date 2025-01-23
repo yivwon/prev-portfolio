@@ -127,7 +127,10 @@ body {
 }
 
 .heading-span13,
-.heading-span17,
+.heading-span17 {
+  -webkit-text-fill-color: #CB5A91;
+}
+
 .heading-span19,
 .heading-span21 {
   -webkit-text-fill-color: #dd97b9; 
@@ -170,10 +173,24 @@ body {
   margin-top: 50px;
 }
 
+.pages {
+  -webkit-text-fill-color: #453D3D; 
+  position:absolute;
+  font-family: "SometypeMono-Regular";
+  word-spacing: 28px;
+  top: 30px;
+  left: 70px;
+}
+
 .status_line {
   -webkit-text-fill-color: #453D3D; 
   position:absolute;
   font-family: "SometypeMono-Regular";
   top: 400px;
   left: 150px;
+}
+
+a {
+  text-decoration: none;
+  color: #453D3D;
 }
