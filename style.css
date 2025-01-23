@@ -20,14 +20,64 @@ body {
   
 }
 
-.heading {
+.line1 {
   text-align: left;
   font-size: 35px;
   letter-spacing: -3em;
   font-weight: 400;
   position: relative;
+  top: 140px;
+  left: 150px;
   height: auto;
-  padding: 20px;
+  /* padding: 20px; */
+  font-family: "AppleGaramond-Light";
+}
+.line2 {
+  text-align: left;
+  font-size: 35px;
+  letter-spacing: -3em;
+  font-weight: 400;
+  position: relative;
+  top: 140px;
+  left: 150px;
+  height: auto;
+  /* padding: 20px; */
+  font-family: "AppleGaramond-Light";
+}
+.line3 {
+  text-align: left;
+  font-size: 35px;
+  letter-spacing: -3em;
+  font-weight: 400;
+  position: relative;
+  top: 140px;
+  left: 150px;
+  height: auto;
+  /* padding: 20px; */
+  font-family: "AppleGaramond-Light";
+}
+.line4 {
+  text-align: left;
+  font-size: 35px;
+  letter-spacing: -3em;
+  font-weight: 400;
+  position: relative;
+  top: 140px;
+  left: 150px;
+  height: auto;
+  /* padding: 20px; */
+  font-family: "AppleGaramond-Light";
+}
+.line5 {
+  text-align: left;
+  font-size: 35px;
+  letter-spacing: -3em;
+  font-weight: 400;
+  position: relative;
+  top: 140px;
+  left: 150px;
+  height: auto;
+  /* padding: 20px; */
   font-family: "AppleGaramond-Light";
 }
 
@@ -36,10 +86,14 @@ body {
 .heading-span14,
 .heading-span15,
 .heading-span16,
+.heading-span165,
 .heading-span17,
 .heading-span18,
+.heading-span185,
 .heading-span19,
 .heading-span20,
+.heading-span205,
+.heading-span206,
 .heading-span21 {
   background: (180deg, rgba(203, 90, 145, 1) 0%);
   background-clip: text;
@@ -58,10 +112,13 @@ body {
 }
 .heading-span12,
 .heading-span16,
+.heading-span165,
 .heading-span18,
-.heading-span20 {
+.heading-span185,
+.heading-span20,
+.heading-span205,
+.heading-span206 {
   -webkit-text-fill-color: #CB5A91; 
-  
 }
 
 .heading-span13,
@@ -91,4 +148,19 @@ body {
   height: 1131px;
   position: relative;
   overflow: visible;
+}
+
+.heading-span12,
+.heading-span13,
+.heading-span14,
+.heading-span15,
+.heading-span16 
+{
+  margin-top: 100px;
+
+}
+
+.heading-span165,
+.heading-span17 {
+  margin-top: 50px;
 }
