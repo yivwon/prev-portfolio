@@ -191,8 +191,14 @@ a {
 .featured {
   margin-top: 350px;
   margin-left: 150px;
+  margin-bottom: 0px;
 }
 
+
+.rectangle-1,
+.rectangle-1 *,
+.inner_rect1,
+.inner_rect1 *,
 .rectangle-2,
 .rectangle-2 *,
 .inner_rect,
@@ -200,6 +206,7 @@ a {
   box-sizing: border-box;
 }
 
+.rectangle-1,
 .rectangle-2 {
   background: #fff5fa;
   border-radius: 14px;
@@ -209,17 +216,45 @@ a {
   border-width: 1px;
   border-style: solid;
   position: relative;
+  z-index: 1;
 }
 
-.inner_rect {
-  background: #ffffff;
+.rectangle-1 {
+  margin-bottom: 30px;
+}
+
+.inner_rect1 {
   border-radius: 14px;
-  top: -220px;
-  left: 30px;
+  top: 40px;
+  left: 40px;
+  background-image: url('images/dire.png'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   border-style: solid;
   border-color: #ffe8f3;
   border-width: 0.5px;
-  width: 160px;
+  margin: 0;
+  width: 260px;
   height: 160px;
   position: relative;
+  z-index: 9999;
+}
+
+.inner_rect {
+  border-radius: 14px;
+  top: 40px;
+  left: 40px;
+  background-image: url('images/ThornhillsPets.png'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-style: solid;
+  border-color: #ffe8f3;
+  border-width: 0.5px;
+  width: 260px;
+  height: 160px;
+  position: relative;
+  margin: 0;
+  z-index: 5;
 }
