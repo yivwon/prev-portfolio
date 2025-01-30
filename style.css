@@ -218,13 +218,18 @@ a {
 .inner_rect1 *,
 .rectangle-2,
 .rectangle-2 *,
-.inner_rect,
-.inner_rect * {
+.inner_rect2,
+.inner_rect2 *,
+.rectangle-3,
+.rectangle-3 *,
+.inner_rect3,
+.inner_rect3 * {
   box-sizing: border-box;
 }
 
 .rectangle-1,
-.rectangle-2 {
+.rectangle-2,
+.rectangle-3 {
   background: #fff5fa;
   border-radius: 14px;
   height: 250px;
@@ -236,33 +241,17 @@ a {
   z-index: 1;
 }
 
-.rectangle-1 {
+.rectangle-1,
+.rectangle-2 {
   margin-bottom: 30px;
 }
 
-.inner_rect1 {
+.inner_rect1,
+.inner_rect2,
+.inner_rect3 {
   border-radius: 14px;
   top: 40px;
   left: 40px;
-  background-image: url('images/dire.png'); 
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  border-style: solid;
-  border-color: #ffe8f3;
-  border-width: 0.5px;
-  margin: 0;
-  width: 260px;
-  height: 160px;
-  position: relative;
-  z-index: 9999;
-}
-
-.inner_rect {
-  border-radius: 14px;
-  top: 40px;
-  left: 40px;
-  background-image: url('images/ThornhillsPets.png'); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -274,6 +263,17 @@ a {
   position: relative;
   margin: 0;
   z-index: 5;
+}
+.inner_rect1 {
+  background-image: url('images/dire.png'); 
+}
+
+.inner_rect2 {
+  background-image: url('images/ChordCraft.png'); 
+}
+
+.inner_rect3 {
+  background-image: url('images/ThornhillsPets.png'); 
 }
 
 .title {
