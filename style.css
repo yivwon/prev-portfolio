@@ -19,6 +19,23 @@
   src: url('./fonts/SometypeMono-Regular.ttf');
 }
 
+
+@font-face {
+  font-family: 'Poppins-Bold';
+  src: url('./fonts/Poppins-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Poppins-Medium';
+  src: url('./fonts/Poppins-Medium.ttf');
+}
+
+
+@font-face {
+  font-family: 'Poppins-Light';
+  src: url('./fonts/Poppins-Light.ttf');
+}
+
 html, body {
   background-color: #fff;
   margin: 0;
@@ -257,4 +274,27 @@ a {
   position: relative;
   margin: 0;
   z-index: 5;
+}
+
+.title {
+  position: relative;
+  bottom: 125px; 
+  font-family: 'Poppins-Medium';
+  left: 370px; Adjust horizontally
+  transform: translate(-50%, -50%); 
+  color: #CB5A91; 
+  font-size: 30px;
+  margin-bottom: 0px;
+  width: 100%; 
+  pointer-events: none; 
+}
+
+.description {
+  position: absolute;
+  margin-top: 35px;
+  top: 70px;
+  left: 370px;
+  font-family: 'Poppins-Light', sans-serif;
+  font-weight: bolder;
+  color: #E29EBF;
 }
