@@ -288,18 +288,19 @@ a {
   position: relative;
   bottom: 125px; 
   font-family: 'Poppins-Medium';
-  left: 935px; 
+  left: 363px; 
   transform: translate(-50%, -50%); 
   color: #CB5A91; 
   font-size: 30px;
   margin-bottom: 0px;
   width: 100%; 
-  pointer-events: none; 
+  /* pointer-events: none;  */
 }
 
 .description {
   position: absolute;
   margin-top: 35px;
+  margin-right: 40px;
   top: 45px;
   left: 365px;
   font-family: 'Poppins-Light', sans-serif;
