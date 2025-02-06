@@ -212,6 +212,14 @@ a {
 }
 
 
+.Projects1 {
+  margin-top: 100px;
+  margin-left: 150px;
+  margin-bottom: 0px;
+}
+
+
+
 .rectangle-1,
 .rectangle-1 *,
 .inner_rect1,
@@ -280,7 +288,7 @@ a {
   position: relative;
   bottom: 125px; 
   font-family: 'Poppins-Medium';
-  left: 370px; 
+  left: 935px; 
   transform: translate(-50%, -50%); 
   color: #CB5A91; 
   font-size: 30px;
@@ -292,8 +300,8 @@ a {
 .description {
   position: absolute;
   margin-top: 35px;
-  top: 70px;
-  left: 370px;
+  top: 45px;
+  left: 365px;
   font-family: 'Poppins-Light', sans-serif;
   font-weight: bolder;
   color: #E29EBF;
