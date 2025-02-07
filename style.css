@@ -284,6 +284,20 @@ a {
   background-image: url('images/ThornhillsPets.png'); 
 }
 
+
+.square-1 {
+  background: #fffafd;
+  border-radius: 14px;
+  height: 400px;
+  width: 400px;
+  border-color: #ffe8f3;
+  border-width: 1px;
+  border-style: solid;
+  position: relative;
+  z-index: 1;
+}
+
+
 .title {
   position: relative;
   bottom: 125px; 
@@ -308,3 +322,9 @@ a {
   color: #E29EBF;
 }
 
+
+.misc {
+  margin-top: 120px;
+  margin-left: 150px;
+  margin-bottom: 0px;
+}
